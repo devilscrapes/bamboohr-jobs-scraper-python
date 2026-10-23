@@ -1,0 +1,11 @@
+{
+  "companies": [
+    "adobe",
+    "nycballet"
+  ],
+  "maxJobsPerCompany": 5,
+  "fetchFullDescription": true,
+  "proxyConfiguration": {
+    "useApifyProxy": true
+  }
+}
